@@ -1,5 +1,6 @@
 def chaine_saisie(chaine_1,chaine_2):
-    """
+    """ttttttthomas
+
     Cette fonction prend 2 chaînes de caractère 'string ' à l'entré et calcul combien de fois la 2 chaîne se trouve
     dans la chaîne 1.
     :param chaine_1:

@@ -1,3 +1,4 @@
+thomas
 from chercher_chaine_saisie import chaine_saisie,demander_saisie
 def chaine_texte():
     '''
